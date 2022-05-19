@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.bg-red {
+    background-color: #FF0000;
+    height: 100vh ;
+}
+
+.bg-green {
+    background-color: green;
+    height: 100vh ;
+}
+
+.bg-yellow {
+    background-color: yellow;
+    height: 100vh ;
+}
+
+.container-img {
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 40px;
+    color: yellow;
+}
+
