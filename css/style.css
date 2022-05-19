@@ -21,6 +21,24 @@ main {
 .bg-yellow {
     background-color: yellow;
     height: 100vh ;
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+}
+
+.number {
+
+    height: 50px;
+    width:50px;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    padding-top:15px  ;
+    margin:10px;
 }
 
 .container-img {
@@ -28,8 +46,13 @@ main {
     
 }
 
-h1 {
+.color-y {
     font-size: 40px;
     color: yellow;
+}
+
+.color-g {
+    font-size: 40px;
+    color: green;
 }
 
