@@ -28,6 +28,7 @@ main {
     display: flex;
     justify-content: flex-end;
     position: fixed;
+    right:0;
 }
 
 .number {
@@ -49,6 +50,7 @@ main {
 .color-y {
     font-size: 40px;
     color: yellow;
+    margin-bottom: 60px;
 }
 
 .color-g {
